@@ -1,0 +1,45 @@
+body {background-color: #909090;}
+
+.disc, .filler {
+  background-color: #9d261d;
+  height:20px;
+  font-size: small;
+  margin:0 auto 2px auto;
+}
+
+.filler {
+  background-color: white;
+  width: 210px;
+}
+
+.d1 {
+  width: 50px;
+}
+
+.d2 {
+  width: 90px;
+}
+
+.d3 {
+  width: 130px;
+}
+
+.d4 {
+  width: 170px;
+}
+
+.d5 {
+  width: 210px;
+}
+
+.tower {
+  width: 250px;
+  height: 108px;
+  margin: 20px ;
+  background-color: #fff;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}

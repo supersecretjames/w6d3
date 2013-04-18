@@ -1,0 +1,7 @@
+function Snake(){
+
+}
+
+function Board(){
+
+}

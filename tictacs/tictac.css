@@ -1,0 +1,28 @@
+body {
+  background-color: #eee;
+  font-family:Helvetica;
+}
+#container {
+  margin: 70px;
+}
+.row {
+  width: 300px;
+  height: 100px;
+  background-color: #eee;
+}
+.square {
+  width: 92px;
+  height: 92px;
+  background-color: #46a546;
+  margin: 4px;
+  float: left;
+  color: #eee;
+  text-align:center;
+  vertical-align: middle;
+  line-height: 100px;
+  font-size:100px;
+}
+
+.clear {
+  clear: both;
+}
